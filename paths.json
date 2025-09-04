@@ -1,10 +1,11 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/bhellema-roche/:/",
+    "/content/bhellema-roche/configuration:/.helix/config.json",
+    "/content/bhellema-roche/metadata:/metadata.json",
+    "/content/bhellema-roche/tools/sidekick/library:/tools/sidekick/library.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/bhellema-roche/"
   ]
 }
